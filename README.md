@@ -23,7 +23,7 @@ However, this has limited accuracy because there are some abusive words in other
 The word cloud shows that the most frequent word in Peter Obi's word cloud was youth, while Tinubu's word cloud has Lagos.
 ![Sentiment Analysis_page-0003](https://user-images.githubusercontent.com/73393430/188275936-e5a00116-27a0-46f4-9dfb-fe9bae669fa8.jpg)
 
-#Conclusion
+# Conclusion
 I really hope you learned one or two things from this article. I didn't want to walk you through the code because it would make the article too lengthy, but I have included comments that will help you navigate the code in my Jupyter notebook. I also included the code I used to gather the data using Snscrape. Thank you for spending time reading the article. I also want to mention that I will be revamping the project soon. I intend to access more data and create a machine learning algorithm for it. So please follow me on my social media handles for updates as soon as possible.
 
 * [Medium](https://medium.com/@ibrahimogunbiyi/election-sentiment-analysis-5de602c04936)
